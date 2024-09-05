@@ -27,6 +27,9 @@ We also included a `models` directory. In that directory, two models, which were
 - `cnn_model.pt`: the 1D-CNN model used for CO2 level predictions.
 - `ae_full_model.pt`: the auto-encoder used for retrieving the activations' latent representation.
 
+# Methodology
+![Alt text](Methodology_figure.jpg)
+
 # Contact-Info
 
 Please feel free to contact me for any questions or research opportunities. 
