@@ -12,8 +12,6 @@ _International Wireless Communications and Mobile Computing Conference (IWCMC)_ 
 - The pre-print using the following link: **https://arxiv.org/abs/2403.13023**
 - The official _IWCMC_ conference paper: **https://ieeexplore.ieee.org/document/10592411**
 
-The pre-print for this manuscript 
-can be found using the following link: **https://arxiv.org/abs/2403.13023**
 
 Before running the code available in the `FDE_Notebook.ipynb`, it is imperative to retrieve the data used for this paper. This can be achieved 
 using the following steps:
